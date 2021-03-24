@@ -1,0 +1,24 @@
+_repo: Tickets-to-Paradise_64791
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, D. L. (Daniel Lewis)
+    alias: James, Daniel Lewis
+    birthdate: 1911
+    deathdate: 1988
+    gutenberg_agent_id: '51644'
+    url: http://www.gutenberg.org/2009/agents/51644
+    wikipedia: https://en.wikipedia.org/wiki/Daniel_Lewis_James
+description: ''
+gutenberg_issued: '2021-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64791'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tickets to Paradise
+url: http://www.gutenberg.org/ebooks/64791
